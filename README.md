@@ -15,3 +15,9 @@ The website has a navbar that links to different pages:
 * HTML
 * CSS
 * bootstrap
+
+## Author
+Yu-Hsuan Wu
+
+## Take a look
+[Click here](https://demiwu96.github.io/Assignment-2_Responsive_Portfolio_Page/)
