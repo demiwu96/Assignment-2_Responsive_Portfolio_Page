@@ -15,4 +15,3 @@ The website has a navbar that links to different pages:
 * HTML
 * CSS
 * bootstrap
-* javaScript
