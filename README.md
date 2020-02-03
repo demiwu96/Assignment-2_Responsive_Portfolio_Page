@@ -1,4 +1,4 @@
-# Assignment-2_Responsive_Portfolio_Page
+# Assignment-2 Responsive Portfolio Page
 
 ## Description
 This website is built with HTML, SSC, javaScript and bootstrap. The purpose of the project is to become familiar with bootstrap and build a responsive website that will fit on various sizes of screens. Portfolio page is important, because it is a way of showing your style, projects you have done and your special experiences. People can read the website to know more about you.
