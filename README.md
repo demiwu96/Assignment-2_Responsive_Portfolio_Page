@@ -10,3 +10,9 @@ The website has a navbar that links to different pages:
 **[Portfolio](Portfolio.html)** is where I put all my projects.
 
 **[Contact](contact.html)** is where you can send me an email and your message.
+
+## Bulit with
+* HTML
+* CSS
+* bootstrap
+* javaScript
